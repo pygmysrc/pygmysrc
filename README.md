@@ -3,7 +3,7 @@
      - front end
      - ecommerce
      - neovim
-     - ui/ux
+     - ux/ui
 - 🌱 I’m currently learning ...
 -    - javascript, typescript, rust, go etc ..
 - 💞️ I’m looking to collaborate on ...
