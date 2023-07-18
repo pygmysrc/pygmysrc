@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @pygmysrc
 - 👀 I’m interested in ...
-     - The defaults
+     - front end development
+     - neovim
 - 🌱 I’m currently learning ...
--    - React, Angular, Vue, Rust, Go etc..
+-    - javascript, typescript, rust, go etc ..
 - 💞️ I’m looking to collaborate on ...
--    - The above
+-    - open source projects
 - 📫 How to reach me ...
 
 <!---
