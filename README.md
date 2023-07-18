@@ -6,6 +6,7 @@
 -    - javascript, typescript, rust, go etc ..
 - 💞️ I’m looking to collaborate on ...
 -    - open source projects
+     - anything
 - 📫 How to reach me ...
 
 <!---
