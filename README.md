@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @pygmysrc
 - 👀 I’m interested in ...
-     - front end development
-     - neovim development
+     - front end
+     - ecommerce
+     - neovim
+     - ui/ux
 - 🌱 I’m currently learning ...
 -    - javascript, typescript, rust, go etc ..
 - 💞️ I’m looking to collaborate on ...
