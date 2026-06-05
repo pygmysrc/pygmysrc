@@ -12,7 +12,6 @@
 
 - 💞️ I’m looking to collaborate on ...
   - open source projects
-  - anything
 
 - 📫 How to reach me ...
  - pygmyux@gmail.com
