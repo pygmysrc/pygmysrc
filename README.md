@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pygmysrc
-	- 👀 I’m interested in
+	👀 I’m interested in
 	- ai
 	- dsp
 	- audio synthesis
