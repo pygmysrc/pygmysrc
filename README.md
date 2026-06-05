@@ -1,21 +1,21 @@
 - 👋 Hi, I’m @pygmysrc
-- 👀 I’m interested in
-- ai
-- dsp
-- audio synthesis
-- front end
-- ecommerce
-- ux/ui
+	- 👀 I’m interested in
+	- ai
+	- dsp
+	- audio synthesis
+	- front end
+	- ecommerce
+	- ux/ui
 
 - 🌱 I’m currently learning ...
--    - rust, go, typescript
+  - rust, go, typescript
 
 - 💞️ I’m looking to collaborate on ...
--    - open source projects
-     - anything
+	- open source projects
+ - anything
 
 - 📫 How to reach me ...
-     - pygmyux@gmail.com
+ - pygmyux@gmail.com
 
 <!---
 pygmysrc/pygmysrc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
