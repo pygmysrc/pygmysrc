@@ -5,8 +5,6 @@
 	- dsp
 	- audio synthesis
 	- front end
-	- ecommerce
-	- ux/ui
 
 - 🌱 I’m currently learning ...
   - rust, go, typescript
