@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @pygmysrc
 - 👀 I’m interested in
-				- ai
-				- dsp
-				- audio synthesis
-     - front end
-     - ecommerce
-     - ux/ui
+- ai
+- dsp
+- audio synthesis
+- front end
+- ecommerce
+- ux/ui
 
 - 🌱 I’m currently learning ...
 -    - rust, go, typescript
