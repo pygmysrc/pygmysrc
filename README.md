@@ -14,7 +14,7 @@
   - open source projects
 
 - 📫 How to reach me ...
- - pygmyux@gmail.com
+  - pygmyux@gmail.com
 
 <!---
 pygmysrc/pygmysrc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
